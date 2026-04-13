@@ -42,5 +42,5 @@
 
   <!-- Footer -->
   <rect x="30" y="940" width="740" height="110" class="box" />
-  <text x="50" y="985" class="p">Gehost via GitHub Artifacts & MA‑Cloud</text>
+  <text x="50" y="985" class="p">Gehost via GitHub Artifacts &amp; MA‑Cloud</text>
 </svg>
