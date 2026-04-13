@@ -1,4 +1,4 @@
-# - Eindopdracht: Game Portfolio + Builds
+# Eindopdracht: Game Portfolio + Builds
 
 ## Doel
 Maak een **eenvoudige game‑portfolio website** waarin **alle drie je games** worden gepresenteerd  
@@ -11,7 +11,7 @@ Als het verplichte deel werkt, ben je **klaar** -.
 
 ---
 
-## - Verplicht Deel 1 – Windows Builds maken (Unity)
+## Verplicht Deel 1 – Windows Builds maken (Unity)
 
 Je moet een **Windows (Standalone) build** maken van **alle drie** de games:
 
@@ -34,7 +34,7 @@ platformer-windows-build
 
 ---
 
-## - Verplicht Deel 2 – Windows Builds hosten via GitHub Artifacts
+## Verplicht Deel 2 – Windows Builds hosten via GitHub Artifacts
 
 Je gebruikt **GitHub Artifacts** om je Windows‑builds te hosten.
 
@@ -52,7 +52,7 @@ Je gebruikt **GitHub Artifacts** om je Windows‑builds te hosten.
 
 ---
 
-## - Verplicht Deel 3 – HTML Portfolio Website
+## Verplicht Deel 3 – HTML Portfolio Website
 
 Maak een **eenvoudige HTML‑portfolio pagina**.
 
@@ -67,7 +67,7 @@ index.html
 
 ---
 
-## - Verplicht: Inhoud van de Portfolio Pagina
+## Verplicht: Inhoud van de Portfolio Pagina
 
 ### Algemeen
 - Je **naam** bovenaan
@@ -88,7 +88,7 @@ Elke game heeft een eigen sectie met:
 
 ---
 
-## - BEHAALD (verplicht deel)
+## BEHAALD (verplicht deel)
 
 Je bent **geslaagd** als:
 
@@ -103,7 +103,7 @@ Je bent **geslaagd** als:
 
 ---
 
-# - Verrijkingsopdracht – WebGL Build (OPTIONEEL)
+# Verrijkingsopdracht – WebGL Build (OPTIONEEL)
 
 Maak van **minstens één game** een **WebGL build** en host deze via **MA‑Cloud**.
 
