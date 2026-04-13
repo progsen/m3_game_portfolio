@@ -100,7 +100,7 @@ Je bent **geslaagd** als:
 - [ ] Elke sectie linkt naar een **Windows‑build**  
 - [ ] Alles staat op **MA‑Cloud**  
 
-- Alles afgevinkt → **KLAAR**
+- Alles afgevinkt -> **KLAAR**
 
 ---
 
