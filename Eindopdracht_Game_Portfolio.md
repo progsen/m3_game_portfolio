@@ -1,4 +1,4 @@
-# Eindopdracht: Game Portfolio + Builds
+# Opdracht: Game Portfolio + Builds
 
 ## Doel
 Maak een **eenvoudige game‑portfolio website** waarin **alle drie je games** worden gepresenteerd  
