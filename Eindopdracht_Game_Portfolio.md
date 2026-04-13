@@ -4,8 +4,8 @@
 Maak een **eenvoudige game‑portfolio website** waarin **alle drie je games** worden gepresenteerd  
 (**Pong, Pac‑Man en de 2D Platformer**) en waarin je **playable builds** linkt.
 
-- - **Windows‑builds via GitHub Artifacts** zijn **verplicht**
-- 🌐 **WebGL‑builds via MA‑Cloud** zijn **verrijkingsopdracht**
+- **Windows‑builds via GitHub Artifacts** zijn **verplicht**
+- **WebGL‑builds via MA‑Cloud** zijn **verrijkingsopdracht**
 
 Als het verplichte deel werkt, ben je **klaar** -.
 
@@ -46,7 +46,7 @@ Je gebruikt **GitHub Artifacts** om je Windows‑builds te hosten.
 - Kan worden gedownload
 - Werkt op Windows
 
-💡 Let op:
+>S Let op:
 - De game hoeft **niet** in de browser te draaien  
 - Downloaden → `.exe` starten → spelen is voldoende  
 
@@ -103,7 +103,7 @@ Je bent **geslaagd** als:
 
 ---
 
-# 🌐 Verrijkingsopdracht – WebGL Build (OPTIONEEL)
+# - Verrijkingsopdracht – WebGL Build (OPTIONEEL)
 
 Maak van **minstens één game** een **WebGL build** en host deze via **MA‑Cloud**.
 
