@@ -85,7 +85,8 @@ Elke game heeft een eigen sectie met:
 3. **Controls**
 4. **Waar je trots op bent**
 5. **Link naar de Windows‑build (GitHub Artifact)**
-
+6. **gifs & images zoals in je readme**
+7. **link naar je github code**
 ---
 
 ## BEHAALD (verplicht deel)
