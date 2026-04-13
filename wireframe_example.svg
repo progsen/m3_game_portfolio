@@ -1,0 +1,46 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="1100" viewBox="0 0 800 1100">
+  <style>
+    .box { fill: none; stroke: #000; stroke-width: 2; }
+    .h1 { font: bold 26px Arial, sans-serif; }
+    .h2 { font: bold 20px Arial, sans-serif; }
+    .p  { font: 15px Arial, sans-serif; }
+  </style>
+
+  <!-- Header -->
+  <rect x="30" y="30" width="740" height="90" class="box" />
+  <text x="50" y="70" class="h1">Student Naam – Game Portfolio</text>
+  <text x="50" y="100" class="p">Unity • Windows Builds • WebGL (optioneel)</text>
+
+  <!-- Pong -->
+  <rect x="30" y="150" width="740" height="220" class="box" />
+  <text x="50" y="185" class="h2">Pong</text>
+  <text x="50" y="215" class="p">Korte beschrijving van de game</text>
+  <text x="50" y="245" class="p">Controls: W / S</text>
+  <text x="50" y="275" class="p">Trots op: Paddle movement</text>
+  <rect x="50" y="300" width="240" height="40" class="box" />
+  <text x="65" y="328" class="p">Download Windows Build</text>
+
+  <!-- Pac-Man -->
+  <rect x="30" y="400" width="740" height="250" class="box" />
+  <text x="50" y="435" class="h2">Pac-Man</text>
+  <text x="50" y="465" class="p">Korte beschrijving van de game</text>
+  <text x="50" y="495" class="p">Controls: Pijltjes</text>
+  <text x="50" y="525" class="p">Trots op: Enemy gedrag</text>
+  <rect x="50" y="550" width="240" height="40" class="box" />
+  <text x="65" y="578" class="p">Download Windows Build</text>
+  <rect x="310" y="550" width="240" height="40" class="box" />
+  <text x="325" y="578" class="p">Speel WebGL</text>
+
+  <!-- Platformer -->
+  <rect x="30" y="680" width="740" height="220" class="box" />
+  <text x="50" y="715" class="h2">2D Platformer</text>
+  <text x="50" y="745" class="p">Korte beschrijving van de game</text>
+  <text x="50" y="775" class="p">Controls: Pijltjes + Spatie</text>
+  <text x="50" y="805" class="p">Trots op: Movement / Levels</text>
+  <rect x="50" y="830" width="240" height="40" class="box" />
+  <text x="65" y="858" class="p">Download Windows Build</text>
+
+  <!-- Footer -->
+  <rect x="30" y="940" width="740" height="110" class="box" />
+  <text x="50" y="985" class="p">Gehost via GitHub Artifacts & MA‑Cloud</text>
+</svg>
