@@ -112,5 +112,5 @@ Maak van **minstens één game** een **WebGL build** en host deze via **MA‑Clo
 - WebGL build start in de browser  
 - Game is speelbaar  
 - Link toegevoegd aan je portfolio
-
+- voor hosten op ma-cloud moet je even de .htaccess file (in deze repo) naast je index van je game zetten
 ---
